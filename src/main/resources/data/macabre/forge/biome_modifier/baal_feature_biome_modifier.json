@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "minecraft:void",
+  "features": "minecraft:no_op",
+  "step": "surface_structures"
+}
