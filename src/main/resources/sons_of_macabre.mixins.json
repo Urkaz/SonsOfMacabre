@@ -1,0 +1,20 @@
+
+{
+  "required": true,
+  "plugin": "com.urkaz.sons_of_macabre.mixin.MixinConfigPlugin",
+  "package": "com.urkaz.sons_of_macabre.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "sons_of_macabre.mixins.refmap.json",
+  "mixins": [
+    "BlockMixin",
+    "CrackedCrystalizedBloodRightclickedProcedureMixin",
+    "CrystalizedBloodRightclickedProcedureMixin",
+    "WhenEntityDieProcedureMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8",
+  "mixinextras": {
+    "minVersion": "0.5.0-rc.2"
+  }
+}

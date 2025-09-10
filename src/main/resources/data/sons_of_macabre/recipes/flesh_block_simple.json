@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "sons_of_macabre:config_enabled",
+      "key": "simple_flesh"
+    }
+  ],
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sons_of_sins:flesh_of_demise"
+    }
+  },
+  "result": {
+    "item": "sons_of_sins:flesh_block",
+    "count": 4
+  }
+}
