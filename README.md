@@ -1,10 +1,10 @@
 Sons of Macabre
 -------------------------------------------
-A small mod integrating the mods SonsOfSins and Macabre.
+A small Minecraft Forge mod for 1.20.1 adding integration between the mods "Sons Of Sins" and "Macabre - Call of False Prophets".
 
 It does the following changes (all configurable in the mod config):
 
-* Adds a new portal made of SonsOfSins flesh blocks to access the Macabre dimension.
+* Adds a new portal made of flesh blocks from Sons Of Sins to access the Macabre dimension.
 * Disables the teleport to the Macabre dimension using CrystalizedBlood. It is used to light the portal.
 * Ether Ashes are only dropped in the Macabre dimension, and it's always dropped.
 * Simplifies the Flesh Block recipe.
