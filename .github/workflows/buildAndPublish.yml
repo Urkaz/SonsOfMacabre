@@ -35,5 +35,5 @@ jobs:
         uses: ncipollo/release-action@v1.14.0
         with:
           artifacts: 'sons_of_macabre_${{env.MOD_VERSION}}-all.jar'
-          tag: github_releases
+          tag: release
           allowUpdates: true
